@@ -57,3 +57,7 @@ gcc -std=c11 -g -Wall -O2 file.c main.c -o main.out
 ```bash
 g++ -std=c++11 -g -Wall -O2 file.c main.c -o main.out
 ```
+
+## 計算複雜度套件
+
+[lizard](https://github.com/terryyin/lizard)
