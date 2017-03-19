@@ -2,16 +2,16 @@
 
 ## 1. Installation:
 
-'''{bash}
+```bash
 sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib
-'''
+```
 
 ## 2. Into the DBMS:
 
-'''{bash}
+```bash
 sudo su postgres
 psql
 postgres # \conninfo
 postgres # \q
-'''
+```
