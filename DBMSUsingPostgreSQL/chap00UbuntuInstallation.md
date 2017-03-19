@@ -9,7 +9,7 @@ sudo apt-get install postgresql postgresql-contrib
 
 ## 2. 進入資料庫系統
 
-使用`系統管理帳號` postgres 進入:
+使用**系統管理帳號** `postgres` 進入:
 
 ```bash
 sudo su postgres
